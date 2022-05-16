@@ -1,3 +1,0 @@
-```xml
-[PASTE STANDARD FORMS IN HERE]
-```
